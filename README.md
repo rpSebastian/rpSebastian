@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I'm a PHD student from Institute of Automation, Chinese Academy of Sciences.
+🌱 I’m currently learning Imperfect Information Games. 
+
 <!--
 **rpSebastian/rpSebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
